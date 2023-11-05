@@ -16,6 +16,22 @@
     height: 91px;
 }
 
+.custom-shape-divider-top-1699214728 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-top-1699214728 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 150px;
+}
+
 /** For tablet devices **/
 @media (min-width: 768px) and (max-width: 1023px) {
     .custom-shape-divider-bottom-1699212020 svg {

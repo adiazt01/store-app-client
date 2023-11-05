@@ -5,7 +5,7 @@ export const Hero = () => {
   return (
     <>
     <NavbarLanding />
-      <section className="flex flex-col items-center justify-center h-[100vh]">
+      <section className="flex flex-col mb-[-25px] items-center justify-evenly h-[100vh]">
         <div className="flex gap-8 flex-col justify-center items-center">
           <div>
             <h1 className="text-3xl font-semibold text-center text-gray-900">
